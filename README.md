@@ -4,10 +4,11 @@
 Foi proposto na aula de pbe1 pelo professor Wellington (SENAI - SP) que fosse feito um sistema fictício para gerenciar o descarte ilegal de resíduos na cidade de Amparo
 
 ## Diagrama de classes
+<img src="docs/diagramadeclasses.png">
 
 ## Tecnologias
 * VS Code
-* ThunderCliente
+* ThunderClient
 * mySQL
 * JavaScript
 

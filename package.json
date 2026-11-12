@@ -1,7 +1,7 @@
 {
   "name": "backend_residuos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Foi proposto na aula de pbe1 pelo professor Wellington (SENAI - SP) que fosse feito um sistema fictício para gerenciar o descarte ilegal de resíduos na cidade de Amparo",
   "main": "server.js",
   "scripts": {
     "dev": "node --watch server.js",
@@ -15,5 +15,17 @@
     "cors": "^2.8.6",
     "express": "^5.3.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiLeh/sesi_pbe1_node_mariadb_residuos_2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GabiLeh/sesi_pbe1_node_mariadb_residuos_2026/issues"
+  },
+  "homepage": "https://github.com/GabiLeh/sesi_pbe1_node_mariadb_residuos_2026#readme"
 }
