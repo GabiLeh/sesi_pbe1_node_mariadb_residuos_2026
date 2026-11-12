@@ -80,7 +80,7 @@ const excluir = (req, res) => {
             if (results.affectedRows == 1)
                 res.json("Registro excluído com sucesso")
             else
-                res.status(404).json({ msg: "Nada alerado no banco de dados", erro: results })
+                res.status(404).json({ msg: "Nada alterado no banco de dados", erro: results })
         }
     })
 }
